@@ -3,6 +3,12 @@ languageCode = "en-us"
 title = "Lost Tales of Periva RPG"
 theme = "hugo-theme-learn"
 
+[params]
+disableSearch = true
+themeVariant = "green"
+author = "Christopher Steffen"
+description = "A guide for how to play Lost Tales of Periva (LToP)"
+
 # For search functionality
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
