@@ -2,6 +2,7 @@
 title: "Terminology"
 date: 2018-10-03T07:10:06-06:00
 draft: false
+weight: 2
 ---
 ___
 This guide assumes that you already understand the basic concepts of Role-Playing Games. This section is designed to outline the basic terms you'll need to know to play Lost Tales of Periva.

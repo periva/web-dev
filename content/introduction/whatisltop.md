@@ -1,0 +1,8 @@
+---
+title: "What is Lost Tales of Periva?"
+date: 2018-10-02T23:25:49-06:00
+draft: false
+weight: 1
+---
+___
+Lost Tales of Periva (LToP) is a rules-light fantasy Role-Playing Game set in the World of Periva campaign setting. LToP is designed to be simple to learn without sacrificing depth of play. LToP can be played without miniatures, battle-mats or other expensive accessories. All you need is this book, a complete set of RPG dice, some pencils and paper, and some friends.
