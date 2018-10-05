@@ -2,13 +2,13 @@
 title: "Terminology"
 date: 2018-10-03T07:10:06-06:00
 draft: false
-weight: 2
+weight: 10
 ---
 ___
 This guide assumes that you already understand the basic concepts of Role-Playing Games. This section is designed to outline the basic terms you'll need to know to play Lost Tales of Periva.
 
 #### Game Master
-The Game Master (GM) is a player designated as the referee of the game, enforcing the rules and making rulings on the various situations that the PCs encounter in their adventures. The GM also decides what happens in the fictional world of the game, acting out the parts of the various NPCs, creatures, and monsters. They create the world in which the characters live, and (with the help of the rules and the dice) determine the fate of the PCs.
+The Game Master (GM) is a player designated as the referee of the game, enforcing the rules and making rulings on the various situations that the PCs encounter in their adventures. The GM also acts out the parts of the various NPCs, creatures, and monsters. They create the world which is inhabited by the Player Characters.
 
 #### Non-Player Character
 Non-Player Characters (NPCs) are the fictional characters that are controlled by the Game Master.
@@ -20,22 +20,16 @@ Player Characters (PCs) are the fictional characters controlled by the players o
 The Party is the group of PCs represented by the players at the table. Many groups like to come up with a unique name for their band of adventurers, though this is not entirely necessary.
 
 #### Ability
-The Abilities are the six core attributes which define a creature’s inherent qualities. These six abilities are Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma, commonly abbreviated as Str, Dex, Con, Int, Wis, and Cha. Abilities are represented by numbers which generally range from 3 to 18, though they can be as low as 1 or as high as 20.
+The Abilities are the six core attributes which define a creature’s inherent qualities. The six abilities are Strength, Dexterity, Constitution, Intelligence, Wisdom, and Charisma.
 
 #### Skill
-A character’s Skills are representations of their training and expertise in a variety of activities. Skills are represented by numbers ranging between 0 (untrained) to 6 (expert).
+A character’s Skills are representations of their training and expertise in a variety of activities. These skills include things like Athletics, Investigation, and Performance, among others.
 
 #### Feat
-Feats represent the unique qualities of a character which grant them special bonuses or abilities in certain situations. Some Feats are given during character creation, while others are purchased with Experience Points.
-
-#### Experience Point
-Experience Points (XP) are a type of currency which reflect the knowledge and experience gained by the players throughout their adventures. XP can be used to purchase improvements for your character, making them stronger, more capable adventurers.
-
-#### RPG Dice
-RPG Dice are a special set of polyhedral dice, each with a different number of sides. There are seven dice in a complete set, ranging from four sides all the way up to twenty sides. They are referred to by the number of sides they possess. For example, a six-sided die is called a d6, and if you need to roll three six-sided dice, this will be referred to as rolling 3d6.
+Feats represent the unique qualities of a character which grant them special bonuses or abilities in certain situations.
 
 #### Action
-Actions are the various things characters can do in the game. Everything from attacking a feral wolf to chatting with a barkeep is considered an action. Some actions are simple, while others are more difficult.
+Actions are the various things characters can do in the game. Some actions are simple, while others are more difficult.
 
 #### Challenge
 Challenges are particularly risky actions which could result in failure or negative consequences. Most challenges will be resolved by rolling dice.

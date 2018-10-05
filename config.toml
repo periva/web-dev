@@ -19,6 +19,6 @@ url = "/legal"
 weight = 30
 
 [[menu.shortcuts]]
-name = "<i class='fas fa-star'></i> Special Thanks"
+name = "<i class='fas fa-heart'></i> Special Thanks"
 url = "/thanks"
 weight = 31
