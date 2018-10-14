@@ -3,6 +3,22 @@ languageCode = "en-us"
 title = "Lost Tales of Periva RPG"
 theme = "hugo-theme-learn"
 
+[params]
+disableSearch = true
+themeVariant = "green"
+author = "Christopher Steffen"
+description = "A guide for how to play Lost Tales of Periva (LToP)"
+
 # For search functionality
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-file-alt'></i> Legal Information"
+url = "/legal"
+weight = 30
+
+[[menu.shortcuts]]
+name = "<i class='fas fa-heart'></i> Special Thanks"
+url = "/thanks"
+weight = 31
