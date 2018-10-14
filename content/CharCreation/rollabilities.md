@@ -2,6 +2,7 @@
 title: "Roll Abilities"
 date: 2018-10-07T01:40:14-05:00
 draft: False
+weight: 5
 ---
 ___
 The first step in character creation is determining Ability scores. You can either roll random scores, or you can randomly assign a standard set of scores.
